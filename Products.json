@@ -1,0 +1,260 @@
+[
+  {
+    "startDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 12
+    },
+    "address": {
+      "street": "179 West Lane",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68588-0115",
+      "country": "USA"
+    },
+    "customer": {
+      "code": "M002",
+      "primaryContact": {
+        "code": "944c",
+        "firstName": "Starlin",
+        "lastName": "Castro",
+        "address": {
+          "street": "1060 West Addison Street",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60613",
+          "country": "USA"
+        },
+        "emailAddresses": [
+          "scastro@cubs.com",
+          "starlin_castro13@gmail.com"
+        ]
+      },
+      "name": "CAS International Fellows",
+      "address": {
+        "street": "1223 Oldfather Hall",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68503",
+        "country": "USA"
+      }
+    },
+    "deposit": 450.0,
+    "monthlyCost": 400.0,
+    "code": "b29e"
+  },
+  {
+    "name": "Furniture - Nightstand",
+    "cost": 4.99,
+    "code": "ff23"
+  },
+  {
+    "dateTime": {
+      "date": {
+        "year": 2016,
+        "month": 10,
+        "day": 21
+      },
+      "time": {
+        "hour": 13,
+        "minute": 10,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "address": {
+      "street": "3555 South 140th Plaza",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68144",
+      "country": "USA"
+    },
+    "totalCost": 215000.0,
+    "downPayment": 10000.0,
+    "monthlyPayment": 600.0,
+    "payableMonths": 24,
+    "interestRate": 4.0,
+    "code": "fp12"
+  },
+  {
+    "fee": 25.0,
+    "code": "90fa"
+  },
+  {
+    "dateTime": {
+      "date": {
+        "year": 2018,
+        "month": 1,
+        "day": 16
+      },
+      "time": {
+        "hour": 15,
+        "minute": 30,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "address": {
+      "street": "755 Willard Drive",
+      "city": "Ashwaubenon",
+      "state": "WI",
+      "zip": "54304",
+      "country": "USA"
+    },
+    "totalCost": 11000.0,
+    "downPayment": 1000.0,
+    "monthlyPayment": 70.0,
+    "payableMonths": 18,
+    "interestRate": 3.59,
+    "code": "1239"
+  },
+  {
+    "dateTime": {
+      "date": {
+        "year": 2016,
+        "month": 11,
+        "day": 10
+      },
+      "time": {
+        "hour": 10,
+        "minute": 0,
+        "second": 0,
+        "nano": 0
+      }
+    },
+    "address": {
+      "street": "6301 University Ave",
+      "city": "Cedar Falls",
+      "state": "IA",
+      "zip": "50613",
+      "country": "USA"
+    },
+    "totalCost": 4200000.0,
+    "downPayment": 200000.0,
+    "monthlyPayment": 8750.0,
+    "payableMonths": 36,
+    "interestRate": 2.11,
+    "code": "782g"
+  },
+  {
+    "fee": 55.0,
+    "code": "3289"
+  },
+  {
+    "name": "Router",
+    "cost": 5.5,
+    "code": "32f4"
+  },
+  {
+    "startDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 11,
+      "day": 23
+    },
+    "address": {
+      "street": "449 3rd Ave",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "68521-5593",
+      "country": "USA"
+    },
+    "customer": {
+      "code": "M004",
+      "primaryContact": {
+        "code": "321f",
+        "firstName": "Bud",
+        "lastName": "Fox",
+        "address": {
+          "street": "321 Bronx Street",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10004",
+          "country": "USA"
+        },
+        "emailAddresses": [
+          "bfox@gmail.com",
+          "csheen@crazy.net"
+        ]
+      },
+      "name": "Stony Brook",
+      "address": {
+        "street": "9800 Savage Rd",
+        "city": "Fort Meade",
+        "state": "MD",
+        "zip": "20755",
+        "country": "USA"
+      }
+    },
+    "deposit": 900.0,
+    "monthlyCost": 900.0,
+    "code": "3y92"
+  },
+  {
+    "fee": 20.0,
+    "code": "90fb"
+  },
+  {
+    "startDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 6
+    },
+    "address": {
+      "street": "375 Northwoods",
+      "city": "Souix City",
+      "state": "IA",
+      "zip": "44982",
+      "country": "USA"
+    },
+    "customer": {
+      "code": "M004",
+      "primaryContact": {
+        "code": "321f",
+        "firstName": "Bud",
+        "lastName": "Fox",
+        "address": {
+          "street": "321 Bronx Street",
+          "city": "New York",
+          "state": "NY",
+          "zip": "10004",
+          "country": "USA"
+        },
+        "emailAddresses": [
+          "bfox@gmail.com",
+          "csheen@crazy.net"
+        ]
+      },
+      "name": "Stony Brook",
+      "address": {
+        "street": "9800 Savage Rd",
+        "city": "Fort Meade",
+        "state": "MD",
+        "zip": "20755",
+        "country": "USA"
+      }
+    },
+    "deposit": 1299.0,
+    "monthlyCost": 1000.0,
+    "code": "xer4"
+  },
+  {
+    "name": "Basic Cable",
+    "cost": 69.5,
+    "code": "yp23"
+  }
+]

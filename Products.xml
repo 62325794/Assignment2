@@ -1,0 +1,200 @@
+<list>
+  <Lease>
+    <code>b29e</code>
+    <startDate>"2017-01-13"</startDate>
+    <endDate>"2018-01-12"</endDate>
+    <address>
+      <street>179 West Lane</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68588-0115</zip>
+      <country>USA</country>
+    </address>
+    <LowIncomeCustomer>
+      <code>M002</code>
+      <primaryContact>
+        <code>944c</code>
+        <firstName>Starlin</firstName>
+        <lastName>Castro</lastName>
+        <address>
+          <street>1060 West Addison Street</street>
+          <city>Chicago</city>
+          <state>IL</state>
+          <zip>60613</zip>
+          <country>USA</country>
+        </address>
+        <emailAddresses>
+          <string>scastro@cubs.com</string>
+          <string>starlin_castro13@gmail.com</string>
+        </emailAddresses>
+      </primaryContact>
+      <name>CAS International Fellows</name>
+      <address>
+        <street>1223 Oldfather Hall</street>
+        <city>Lincoln</city>
+        <state>NE</state>
+        <zip>68503</zip>
+        <country>USA</country>
+      </address>
+    </LowIncomeCustomer>
+    <deposit>450.0</deposit>
+    <monthlyCost>400.0</monthlyCost>
+  </Lease>
+  <Amenity>
+    <code>ff23</code>
+    <name>Furniture - Nightstand</name>
+    <cost>4.99</cost>
+  </Amenity>
+  <Sale>
+    <code>fp12</code>
+    <dateTime> "2016-10-21 13:10"</dateTime>
+    <address>
+      <street>3555 South 140th Plaza</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68144</zip>
+      <country>USA</country>
+    </address>
+    <totalCost>215000.0</totalCost>
+    <downPayment>10000.0</downPayment>
+    <monthlyPayment>600.0</monthlyPayment>
+    <payableMonths>24</payableMonths>
+    <interestRate>4.0</interestRate>
+  </Sale>
+  <ParkingPass>
+    <code>90fa</code>
+    <fee>25.0</fee>
+  </ParkingPass>
+  <Sale>
+    <code>1239</code>
+    <dateTime>"2018-01-16 15:30"</dateTime>
+    <address>
+      <street>755 Willard Drive</street>
+      <city>Ashwaubenon</city>
+      <state>WI</state>
+      <zip>54304</zip>
+      <country>USA</country>
+    </address>
+    <totalCost>11000.0</totalCost>
+    <downPayment>1000.0</downPayment>
+    <monthlyPayment>70.0</monthlyPayment>
+    <payableMonths>18</payableMonths>
+    <interestRate>3.59</interestRate>
+  </Sale>
+  <Sale>
+    <code>782g</code>
+    <dateTime>"2016-11-10 10:00"</dateTime>
+    <address>
+      <street>6301 University Ave</street>
+      <city>Cedar Falls</city>
+      <state>IA</state>
+      <zip>50613</zip>
+      <country>USA</country>
+    </address>
+    <totalCost>4200000.0</totalCost>
+    <downPayment>200000.0</downPayment>
+    <monthlyPayment>8750.0</monthlyPayment>
+    <payableMonths>36</payableMonths>
+    <interestRate>2.11</interestRate>
+  </Sale>
+  <ParkingPass>
+    <code>3289</code>
+    <fee>55.0</fee>
+  </ParkingPass>
+  <Amenity>
+    <code>32f4</code>
+    <name>Router</name>
+    <cost>5.5</cost>
+  </Amenity>
+  <Lease>
+    <code>3y92</code>
+    <startDate>"2017-11-24"</startDate>
+    <endDate>"2018-11-23"</endDate>
+    <address>
+      <street>449 3rd Ave</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>68521-5593</zip>
+      <country>USA</country>
+    </address>
+    <GeneralCustomer>
+      <code>M004</code>
+      <primaryContact>
+        <code>321f</code>
+        <firstName>Bud</firstName>
+        <lastName>Fox</lastName>
+        <address>
+          <street>321 Bronx Street</street>
+          <city>New York</city>
+          <state>NY</state>
+          <zip>10004</zip>
+          <country>USA</country>
+        </address>
+        <emailAddresses>
+          <string>bfox@gmail.com</string>
+          <string>csheen@crazy.net</string>
+        </emailAddresses>
+      </primaryContact>
+      <name>Stony Brook</name>
+      <address>
+        <street>9800 Savage Rd</street>
+        <city>Fort Meade</city>
+        <state>MD</state>
+        <zip>20755</zip>
+        <country>USA</country>
+      </address>
+    </GeneralCustomer>
+    <deposit>900.0</deposit>
+    <monthlyCost>900.0</monthlyCost>
+  </Lease>
+  <ParkingPass>
+    <code>90fb</code>
+    <fee>20.0</fee>
+  </ParkingPass>
+  <Lease>
+    <code>xer4</code>
+    <startDate>"2016-10-07"</startDate>
+    <endDate>"2017-10-06"</endDate>
+    <address>
+      <street>375 Northwoods</street>
+      <city>Souix City</city>
+      <state>IA</state>
+      <zip>44982</zip>
+      <country>USA</country>
+    </address>
+    <GeneralCustomer>
+      <code>M004</code>
+      <primaryContact>
+        <code>321f</code>
+        <firstName>Bud</firstName>
+        <lastName>Fox</lastName>
+        <address>
+          <street>321 Bronx Street</street>
+          <city>New York</city>
+          <state>NY</state>
+          <zip>10004</zip>
+          <country>USA</country>
+        </address>
+        <emailAddresses>
+          <string>bfox@gmail.com</string>
+          <string>csheen@crazy.net</string>
+        </emailAddresses>
+      </primaryContact>
+      <name>Stony Brook</name>
+      <address>
+        <street>9800 Savage Rd</street>
+        <city>Fort Meade</city>
+        <state>MD</state>
+        <zip>20755</zip>
+        <country>USA</country>
+      </address>
+    </GeneralCustomer>
+    <deposit>1299.0</deposit>
+    <monthlyCost>1000.0</monthlyCost>
+  </Lease>
+  <Amenity>
+    <code>yp23</code>
+    <name>Basic Cable</name>
+    <cost>69.5</cost>
+  </Amenity>
+</list>
